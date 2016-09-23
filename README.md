@@ -1,3 +1,3 @@
 # A simple file to start
 
-some OTHER changes
+some OTheR changes
